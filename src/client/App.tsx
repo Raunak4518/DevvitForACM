@@ -14,6 +14,13 @@ export const App = () => {
           Edit <span className="bg-[#e5ebee]  px-1 py-0.5 rounded">src/client/App.tsx</span> to get
           started.
         </p>
+        <ul>
+          <li>Purv</li>
+          <li>Om</li>
+          <li>Jay</li>
+          <li>Chetan</li>
+          <li>Manthan</li>
+        </ul>
       </div>
       <div className="flex items-center justify-center mt-5">
         <button

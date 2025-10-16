@@ -20,6 +20,7 @@ export const App = () => {
           <li>Jay</li>
           <li>Chetan</li>
           <li>Manthan</li>
+          <li>Gaurav</li>
           <li>Jenil</li>
           <li>Pratham</li>
           <li>Siddh</li>

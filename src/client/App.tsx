@@ -20,6 +20,7 @@ export const App = () => {
           <li>Jay</li>
           <li>Chetan</li>
           <li>Manthan</li>
+          <li>Siddh</li>
         </ul>
       </div>
       <div className="flex items-center justify-center mt-5">
